@@ -7,5 +7,3 @@ I've also added a requirements file
 # Credential Links
 
 [Credential Link](https://certificates.cs50.io/e0eed339-6c77-4802-9d23-9fd5e392e662.pdf)
-
-![Credential](https://certificates.cs50.io/e0eed339-6c77-4802-9d23-9fd5e392e662.pdf)
